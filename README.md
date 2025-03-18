@@ -1,2 +1,3 @@
 # devops
 jenkins
+poll scm
